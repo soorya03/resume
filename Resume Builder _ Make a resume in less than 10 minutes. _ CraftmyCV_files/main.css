@@ -744,7 +744,6 @@ form label .info-link:hover{color:#3CAFF7;}
 .hamburger--squeeze .hamburger-inner:before{transition:top 75ms ease .12s,opacity 75ms ease}
 .hamburger--squeeze .hamburger-inner:after{transition:bottom 75ms ease .12s,transform 75ms cubic-bezier(.55,.055,.675,.19)}
 
-.cv-template{max-width:825px; margin: 0 auto 15px; padding:0 15px; }
 .cv-template .template{/*height:1329px;*/  page-break-after: always; box-shadow:0 6px 14px rgba(0,0,0,.16);}
 .cv-template .watermark{position:absolute; left:30px; right:30px; bottom:10px; display:flex; justify-content:space-between; align-items:center; font-size:13px; color:#404040; cursor:default;}
 .cv-template .watermark .right .text{margin-right:5px; vertical-align:middle;}
